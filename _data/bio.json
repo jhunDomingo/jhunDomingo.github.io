@@ -2,14 +2,14 @@
   "basics": {
     "name": "Jhun Heinrich Domingo",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "jhunDomingo.github.io/images/Photo on 1-9-19 at 10.32 AM #2.jpg",
     "email": "jhd21@hawaii.edu",
     "phone": "808-389-7422",
     "website": "https://jhundomingo.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "1923 Kahanu St.",
+      "postalCode": "96819",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,42 +17,33 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jhunDomingo",
+        "url": "http://github.com/jhundomingo"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Jhun Heinrich Domingo",
+        "url": "https://www.linkedin.com/in/jhun-heinrich-domingo-87714b178/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "web design",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "web",
+        "design"
       ]
     },
     {
-      "name": "data mining",
+      "name": "algorithms",
       "keywords": [
       ]
     },
     {
       "name": "artificial intelligence",
       "keywords": [
+        "ai"
       ]
     }
   ],
@@ -64,9 +55,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -74,22 +63,21 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.12",
       "courses": [
+        "Software Engineering 1",
+        "Data Storage"
       ]
     }
   ],
