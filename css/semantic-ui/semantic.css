@@ -13759,7 +13759,7 @@ ol.ui.list ol li,
 .ui.menu .ui.list .list > .item:before,
 .ui.menu .ui.list > .item:before {
   border: none;
-  background: none;
+  background: black;
 }
 
 .ui.menu .ui.list .list > .item:first-child,
