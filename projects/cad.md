@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/projectCADL.png
+image: images/projectCADL.jpg
 title: Computer Aided Design
 permalink: projects/computer-aided-design
 # All dates must be YYYY-MM-DD format!
