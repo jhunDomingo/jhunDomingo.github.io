@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/projectCADL.png
-title: Bank Database
-permalink: projects/bank-database
+title: Computer Aided Design
+permalink: projects/computer-aided-design
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-01
 labels:
