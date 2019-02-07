@@ -18,4 +18,4 @@ Sure that coding standards are just like the standards of a college essay, but w
 
 For me personally, I found it very helpful when I was a new programmer. Learning that this coding style is used by many people, it is easy to understand and break down other individuals code. It was easier to pick apart my code by finding “paragraphs” that could be a cause of my errors then starting from the top of my wall of code. It is also helpful when working within groups to have similar coding styles to make it feel like you were the one who wrote the code yourself. 
 
-<img class="ui medium right floated rounded image" src="../images/codingStyle.png">
+<img class="ui large center fluid image" src="../images/codingStyle.png">
