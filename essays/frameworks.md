@@ -10,4 +10,4 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui large center image" src="https://jhundomingo.github.io/images/semanticLogo.png">
+<img class="ui small center image" src="https://jhundomingo.github.io/images/semanticLogo.png">
