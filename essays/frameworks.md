@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Beauty of UI Frameworks
+title: Why you should use Semantic UI
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-20
 labels:
