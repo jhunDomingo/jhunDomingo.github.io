@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Can't Unsee Semantic UI After This!
+title: Can't Ignore Semantic UI After This!
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-20
 labels:
