@@ -9,4 +9,4 @@ labels:
   - Problem Solving
 ---
 
-<img class="ui large center fluid image" src="../images/codingStyle.png">
+<img class="ui large center fluid image" src="../images/designPattern.png">
