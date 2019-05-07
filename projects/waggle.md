@@ -16,4 +16,4 @@ labels:
 summary: Created a website as a final project for ICS 314.
 ---
 
-<img class="ui medium floated rounded image" src="../images/what-waggle.png">
+<img class="ui floated image" src="../images/what-waggle.png">
